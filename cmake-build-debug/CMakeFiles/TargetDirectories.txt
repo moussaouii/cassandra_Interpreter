@@ -1,0 +1,3 @@
+/home/ismail/ClionProjects/cassandra1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ismail/ClionProjects/cassandra1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ismail/ClionProjects/cassandra1/cmake-build-debug/CMakeFiles/cassandra1.dir

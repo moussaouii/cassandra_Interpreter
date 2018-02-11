@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cassandra1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ismail/ClionProjects/cassandra1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ismail/ClionProjects/cassandra1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ismail/ClionProjects/cassandra1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cassandra1">
+				<Option output="/home/ismail/ClionProjects/cassandra1/cmake-build-debug/cassandra1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ismail/ClionProjects/cassandra1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 cassandra1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cassandra1/fast">
+				<Option output="/home/ismail/ClionProjects/cassandra1/cmake-build-debug/cassandra1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ismail/ClionProjects/cassandra1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 cassandra1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ismail/ClionProjects/cassandra1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/analyseur_cql.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/analyseur_cql.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/boolean.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/error.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/error.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/execute_stmt.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/execute_stmt.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/header_analyseur.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/lex.yy.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/list.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/list.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/list_aux.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/list_aux.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/murmur3.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/murmur3.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/persistance.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/persistance.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/semantique.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/semantique.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/dump.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/error.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/hashtable.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/hashtable.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/hashtable_seed.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/jansson.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/jansson_config.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/jansson_private.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/load.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/lookup3.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/memory.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/pack_unpack.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/strbuffer.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/strbuffer.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/strconv.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/utf.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/utf.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/src/value.c">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/structure.h">
+			<Option target="cassandra1"/>
+		</Unit>
+		<Unit filename="/home/ismail/ClionProjects/cassandra1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
